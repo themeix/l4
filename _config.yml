@@ -4,8 +4,8 @@ version: 3.0.0
 email: serena_lyjuan?t=RVuhMMCMiPkaru_oVax0pA&s=09
 description: >- # this means to ignore newlines until "baseurl:"
   Arnica Responsive Static Jekyll Theme For Blogging.
-baseurl: "/l4/" # the subpath of your site, e.g. /blog
-url: "https://proskahn.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+baseurl: "/l4" # the subpath of your site, e.g. /blog
+url: "https://proskahn.github.io/l4" # the base hostname & protocol for your site, e.g. https://example.com
 
 
 # Site Settings
