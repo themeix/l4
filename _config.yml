@@ -2,7 +2,7 @@ title: Yijuan Li | 李懿娟
 version: 3.0.0
 email: serenalyjuan@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://proskahn.github.io/l4" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://proskahn.github.io/l4/" # the base hostname & protocol for your site, e.g. https://example.com
 
 
 # Site Settings
