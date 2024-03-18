@@ -2,16 +2,14 @@
 title: Yijuan Li | 李懿娟
 version: 3.0.0
 email: serena_lyjuan?t=RVuhMMCMiPkaru_oVax0pA&s=09
-description: >- # this means to ignore newlines until "baseurl:"
-  Arnica Responsive Static Jekyll Theme For Blogging.
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Arnica Responsive Static Jekyll Theme For Blogging.
 baseurl: "/l4" # the subpath of your site, e.g. /blog
-url: "https://proskahn.github.io/l4" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://proskahn.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 
 # Site Settings
-twitter_username: jekyllrb
 dark_header:  false
-logo_url: 
 cover_image: /img/957.jpg
 mailclimp_url: 'https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884'
 # dribble_url: https://dribble.com/themeix
