@@ -2,7 +2,11 @@ title: Yijuan Li | 李懿娟
 version: 3.0.0
 email: serenalyjuan@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
+<<<<<<< HEAD
 url: "https://jekyll-arnica.netlify.com/" # the base hostname & protocol for your site, e.g. https://example.com
+=======
+url: "https://proskahn.github.io/l4/" # the base hostname & protocol for your site, e.g. https://example.com
+>>>>>>> 1df33a8effc8ecc11dd69a3760404018efa7b958
 
 
 # Site Settings
