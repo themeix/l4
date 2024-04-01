@@ -74,7 +74,7 @@ PLATFORMS
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
-  jekyll (~> 4.3.3)
+  jekyll (>= 3.8.5)
   jekyll-archives
   jekyll-feed (~> 0.12)
   jekyll-paginate-v2
