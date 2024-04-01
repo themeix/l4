@@ -2,8 +2,6 @@
 #   url: /
 - title: About
   url: /about
-# - title: Styles
-#   url: /styles
 - title: Posts
   url: /#
   sublinks:
@@ -16,4 +14,6 @@
     # - title: 404
     #   url: /404
 - title: Contact
-  url: /contact      
+  url: /contact 
+- title: Coins
+  url: /foundation

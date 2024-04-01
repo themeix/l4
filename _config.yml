@@ -2,16 +2,12 @@ title: Yijuan Li | 李懿娟
 version: 3.0.0
 email: serenalyjuan@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-<<<<<<< HEAD
 url: "https://jekyll-arnica.netlify.com/" # the base hostname & protocol for your site, e.g. https://example.com
-=======
-url: "https://proskahn.github.io/l4/" # the base hostname & protocol for your site, e.g. https://example.com
->>>>>>> 1df33a8effc8ecc11dd69a3760404018efa7b958
 
 
 # Site Settings
 dark_header:  false
-cover_image: /assets/images/26401710289550_.pic.jpg
+cover_image: /img/ba.jpg
 mailclimp_url: 'https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884'
 # dribble_url: https://dribble.com/themeix
 facebook_url: https://www.facebook.com/profile.php?id=100089759058416&mibextid=9R9pXO
