@@ -15,8 +15,10 @@ source "https://rubygems.org"
 
 # gem "github-pages", group: :jekyll_plugins
 
-gem 'jekyll', '~> 4.3.3'
-gem 'github-pages', '~> 215', group: :jekyll_plugins
+gem 'jekyll', '3.9.2'
+gem 'github-pages', '~> 227', group: :jekyll_plugins
+# Ensure to use the version that is compatible with Ruby 3.2
+
 
 # Add any other specific versions if required
 
