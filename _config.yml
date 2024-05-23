@@ -1,4 +1,4 @@
-title: Yijuan Li | 李懿娟
+title: Li Yijuan | 李懿娟
 version: 3.0.0
 email: serenalyjuan@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,10 +10,11 @@ dark_header:  false
 cover_image: /img/ba.jpg
 mailclimp_url: 'https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884'
 # dribble_url: https://dribble.com/themeix
-facebook_url: https://www.facebook.com/profile.php?id=100089759058416&mibextid=9R9pXO
+facebook_username: https://www.facebook.com/profile.php?id=100089759058416&mibextid=9R9pXO
 # instagram_url: https://instagram.com/themeix
-twitter_url: https://x.com/serena_lyjuan?t=RVuhMMCMiPkaru_oVax0pA&s=09
+twitter_username: https://x.com/serena_lyjuan?t=RVuhMMCMiPkaru_oVax0pA&s=09
 # pinterest_url: https://pinterest.com/themeix
+linkedin_username: https://www.linkedin.com/in/yijuan-li-1a9634227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 # Build Settings

@@ -1,7 +1,7 @@
  <ul id="header-menu">
    {% for links in site.data.navigation %}
      {% if links.sublinks %}
-       <li class="has-sub">Page
+       <li class="has-sub">About
            <ul>
                {% for sublink in links.sublinks %}
                <li><a href="{{sublink.url absolute='true'}}">{{sublink.title}}</a></li>

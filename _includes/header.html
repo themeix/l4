@@ -8,14 +8,20 @@
       <div class="container">
          <div class="row">
              <div class="col-6">
-               <a class="heading-big {% if site.dark_header == false %} text-white {% endif %}" href="{{site.url}}"> {{site.title}}</a>
+               <a class="heading-big {% if site.dark_header == false %} text-white {% endif %}" href="{{site.url}}" style="font-size: xx-large;">{{site.title}}</a>
              </div>
-                 <div class="col-6">
-                 {% include navigation.html %}
-                 </div>
+             
+             <!-- <div class="col-9">
+               <a class="heading-big {% if site.dark_header == false %} text-white {% endif %}" href="{{site.url}}" style="font-size: x-large;">{{site.subtitle}}</a>
+             </div> -->
+             
+             <div class="col-6">
+               {% include navigation.html %}
+             </div>
          </div>
       </div>
    </div>
+   
    <div class="modal fade" id="search-modal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
       <div class="modal-dialog modal-lg">
          <div class="modal-content">

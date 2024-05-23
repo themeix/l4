@@ -1,19 +1,16 @@
 # - title: Home
 #   url: /
 - title: About
-  url: /about
-- title: Posts
-  url: /#
   sublinks:
-    - title: News
-      url: /all-authors  
-    - title: Novel
-      url: /about
-    - title: Comments
-      url: /contact      
+    - title: About me
+      url: /about 
+    - title: Reading list
+      url: /styles  
+    # - title: About Writing
+    #   url: /styles
+    # - title: Comments
+    #   url: /contact      
     # - title: 404
     #   url: /404
 - title: Contact
   url: /contact 
-- title: Coins
-  url: /foundation
